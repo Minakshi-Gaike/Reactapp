@@ -20,6 +20,8 @@ function App() {
         </a>
         <br/>
          <button>display</button>
+         <br/>
+         <button>submit</button>
       </header>
     </div>
   );
