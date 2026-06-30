@@ -22,6 +22,8 @@ function App() {
          <button>display</button>
          <br/>
          <button>submit</button>
+         <br/>
+         <button>reset</button>
       </header>
     </div>
   );
